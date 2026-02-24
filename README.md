@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Kyota's Home page;Welcome!" alt="Typing SVG" />🌸
+# 🌸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Kyota's+Home+Page;Welcome!" alt="Typing SVG" />🌸
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=opsgenie" />
@@ -11,13 +11,6 @@
 
 > **现状**:  AI编程受益者；学习中……
 > **技能**: `Python` | `Linux` | `Vibe coding`
-
----
-
-### 📊 [NETWORK_STATS]
-
-<!-- 下面的图片由 .github/workflows/grs.yml 生成并提交到 profile/ 目录 -->
-<img height="180em" src="./profile/stats.svg" />
 
 ---
 
