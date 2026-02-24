@@ -18,30 +18,38 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate stats card
+# --- Stats 卡片：生成两个版本 ---
+      - name: Generate stats card (Light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # 固定为你的 GitHub 用户名，以确保在非 profile 仓库也能正确生成
-          options: username=jiang068&show_icons=true
-          path: profile/stats.svg
+          options: username=jiang068&show_icons=true&theme=default
+          path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate stats card (Dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=jiang068&show_icons=true&theme=github_dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --- Top Langs 卡片：同样生成两个版本 ---
+      - name: Generate top languages card (Light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=jiang068&layout=compact&langs_count=6
-          path: profile/top-langs.svg
+          options: username=jiang068&layout=compact&theme=default
+          path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
+      - name: Generate top languages card (Dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: pin
-          # 这里把 pin 指向你的某个仓库；我假设你想把本仓库作为示例
-          options: username=jiang068&repo=jiang068
-          path: profile/pin-jiang068-jiang068.svg
+          card: top-langs
+          options: username=jiang068&layout=compact&theme=github_dark
+          path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
