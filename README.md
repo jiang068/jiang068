@@ -19,13 +19,20 @@
 
 ### 📊 [NETWORK_STATS]
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiang068&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF0055&icon_color=00F2FF&text_color=B3B1AD&border_color=00F2FF&hide_border=false" />
+<!-- 下面的图片由 .github/workflows/grs.yml 生成并提交到 profile/ 目录 -->
+<img height="180em" src="./profile/stats.svg" />
 
 ---
 
 ### 🛠️ [CORE_TECHNOLOGIES]
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiang068&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF0055&text_color=B3B1AD&border_color=00F2FF&hide_border=false" />
+<img height="180em" src="./profile/top-langs.svg" />
+
+---
+
+### 📌 [PINNED]
+
+<img src="./profile/pin-jiang068-jiang068.svg" />
 
 ---
 
