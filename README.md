@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=opsgenie" />
-  <img src="https://img.shields.io/badge/LOCATION-NIGHT_CITY-FF0055?style=for-the-badge&logo=world-health-organization&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-Tokyo-E474EF?style=for-the-badge&logo=world-health-organization&logoColor=white" />
 </p>
 
 ---
@@ -12,37 +12,18 @@
 ### 📂 [SYSTEM_LOG]
 > `> Loading developer_profile.sh...`
 > 
-> **目标**: 构建数字化未来，修复矩阵漏洞。
-> **技能**: `Python` | `Arch Linux` | `Minecraft Architecture`
+> **现状**:  AI编程受益者；学习中……
+> **技能**: `Python` | `Linux` | `vibe coding`
 
 ---
 
-### 📊 [NETWORK_STATS]
+<h3 align="center">📊 [STATISTICS & TECHNOLOGIES]</h3>
 
-<!-- 下面的图片由 .github/workflows/grs.yml 生成并提交到 profile/ 目录 -->
-<img height="180em" src="./profile/stats.svg" />
-
----
-
-### 🛠️ [CORE_TECHNOLOGIES]
-
-<img height="180em" src="./profile/top-langs.svg" />
+<p align="center">
+  <img height="180" src="./profile/stats.svg" />
+  &nbsp;
+  <img height="180" src="./profile/top-langs.svg" />
+  <br> <img height="180" src="./profile/pin-jiang068-jiang068.svg" />
+</p>
 
 ---
-
-### 📌 [PINNED]
-
-<img src="./profile/pin-jiang068-jiang068.svg" />
-
----
-
-### 🔗 [CONNECTION_ESTABLISHED]
-
-[![Discord](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Bilibili](https://img.shields.io/badge/BILIBILI-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com)
-
-<br />
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.gif" width="100%">
-
-</div>
