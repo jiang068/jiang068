@@ -19,13 +19,13 @@
 
 ### 📊 [NETWORK_STATS]
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF0055&icon_color=00F2FF&text_color=B3B1AD&border_color=00F2FF&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiang068&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF0055&icon_color=00F2FF&text_color=B3B1AD&border_color=00F2FF&hide_border=false" />
 
 ---
 
 ### 🛠️ [CORE_TECHNOLOGIES]
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF0055&text_color=B3B1AD&border_color=00F2FF&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiang068&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF0055&text_color=B3B1AD&border_color=00F2FF&hide_border=false" />
 
 ---
 
