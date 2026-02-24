@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Kyota's+Profile;Welcome!" alt="Typing SVG" />🌸
+## 🌸 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Kyota's+Profile;Welcome!" alt="Typing SVG" />🌸
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=opsgenie" />
