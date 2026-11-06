@@ -33,31 +33,28 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended-lemon-seven.vercel.app/api?username=jiang068&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;card_width=450">
+      srcset="https://github-stats-extended-lemon-seven.vercel.app/api?username=jiang068&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;card_width=400">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended-lemon-seven.vercel.app/api?username=jiang068&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;card_width=450">
+      srcset="https://github-stats-extended-lemon-seven.vercel.app/api?username=jiang068&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;card_width=400">
     <img
-      src="https://github-stats-extended-lemon-seven.vercel.app/api?username=jiang068&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;card_width=450"
+      src="https://github-stats-extended-lemon-seven.vercel.app/api?username=jiang068&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;card_width=400"
       alt="GitHub statistics"
-      width="49%"
       height="180">
   </picture>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended-lemon-seven.vercel.app/api/top-langs?username=jiang068&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;card_width=450">
+      srcset="https://github-stats-extended-lemon-seven.vercel.app/api/top-langs?username=jiang068&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;card_width=400">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended-lemon-seven.vercel.app/api/top-langs?username=jiang068&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true&amp;card_width=450">
+      srcset="https://github-stats-extended-lemon-seven.vercel.app/api/top-langs?username=jiang068&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true&amp;card_width=400">
     <img
-      src="https://github-stats-extended-lemon-seven.vercel.app/api/top-langs?username=jiang068&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true&amp;card_width=450"
+      src="https://github-stats-extended-lemon-seven.vercel.app/api/top-langs?username=jiang068&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true&amp;card_width=400"
       alt="Top programming languages"
-      width="49%"
       height="180">
   </picture>
 </div>
-
 ---
 
 <div align="center">
